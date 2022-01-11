@@ -1,0 +1,1 @@
+[17-Nov-2021 20:55:54 America/Guatemala] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/vrinfosysgt/pos_jalpatagua/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php on line 55
